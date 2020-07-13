@@ -11,10 +11,10 @@ AudioTx and AudioRx system for streaming an audio input from one raspberry pi to
   1x Sabrent AU-MMSA USB 2.0 Sound Card\
   
 ## Install:
-  All you need to do to install this system is download the install.sh script and follow the directions. It will do most of the work for you. You will need to know the IP address of your AudioRx system. It is best to set this to a Fixed IP address. This will prevent the system from loosing connection if the DHCP does not assign the same IP address all the time.\
+  All you need to do to install this system is download the install.sh script and follow the directions. It will do most of the work for you. You will need to know the IP address of your AudioRx system. It is best to set this to a Fixed IP address. This will prevent the system from loosing connection if the DHCP does not assign the same IP address all the time.
   
-Hope this is helpful!\
+Hope this is helpful!
 
-If anyone has any questions feel free to drop me a line.\
+If anyone has any questions feel free to drop me a line.
 
 Louis@baraqu.com
